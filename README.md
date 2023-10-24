@@ -3,7 +3,7 @@
 ## Некрасова Валентина Григорьевна
 *QA-ingeneer*
 
-<image src="images\Photo2.jpg" alt="Официального фото нет">
+<image src="images\Photo.jpg" alt="Официального фото нет">
 
 ## Контактная информация
 
