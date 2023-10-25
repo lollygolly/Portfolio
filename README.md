@@ -8,7 +8,7 @@
         <p><h1 style="font: Arial; size: 30; color: black">Некрасова Валентина Григорьевна</h1></p>
         <p><i>QA-ingeneer</i></p> 
         <p><image src="images\Photo.jpg" alt="Официального фото нет"></image></p>    
-        <p><h1 style="font: Arial; size: 30; color: black">Контактная информация></h1></p>        
+        <p><h1 style="font: Arial; size: 30; color: black">Контактная информация</h1></p>        
            <ul>
            <li>Дата рождения: 12.08.1996</li>
            <li>Город: Надым, Санкт-Петербург, Ставрополь</li>
