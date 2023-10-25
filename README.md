@@ -1,7 +1,6 @@
 <!Doctype html>
 <html lang="ru">
     <head>
-        <title>Резюме</title>
         <meta charset="utf-8">
     </head>
     <body><h1 style="font: Arial; size: 50; color: blue">Резюме</h1>
